@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "757785087705",
+    "firebase_url": "https://amazingandroid33.firebaseio.com",
+    "project_id": "amazingandroid33",
+    "storage_bucket": "amazingandroid33.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757785087705:android:b66eb00c45d6c9e2",
+        "android_client_info": {
+          "package_name": "com.amazingandroids.dfldev.benone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757785087705-9r2hln60iblq77f2fr5l7n0m4o9n086v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrtsBhjNDk1jukG56DP2rRM3sGuLz4qy8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
